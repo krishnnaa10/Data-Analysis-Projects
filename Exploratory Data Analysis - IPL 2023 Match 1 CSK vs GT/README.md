@@ -7,4 +7,5 @@ This project focuses on performing an exploratory data analysis (EDA) of the ope
 + Counting the number of balls faced by each batsman from both teams.
 + Counting the number of balls bowled by each bowler.
 + Analyzing the overall successes (boundaries and sixes) during the match.
-etc....
+
+Etc....
